@@ -11,7 +11,7 @@
 
 [Download](#installation) · [Features](#features) · [How it works](#how-it-works) · [FAQ](#faq) · [Contributing](#contributing)
 
-![ImgBatch screenshot](assets/screenshot.png)
+![ImgBatch screenshot](/screenshot.png)
 
 </div>
 
